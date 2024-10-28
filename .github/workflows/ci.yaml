@@ -28,7 +28,7 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: your-docker-repo/my-app:latest
+        tags: 77фтещтщмйцукенщз77/my-nginx-server:latest
 
     - name: Update Helm chart
       uses: helm/chart-releaser-action@v1
